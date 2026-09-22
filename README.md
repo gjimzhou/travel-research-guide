@@ -8,6 +8,7 @@ The repository intentionally excludes personal itineraries, booking details, hom
 
 - [Travel planning framework](guides/planning-framework.md) — system-level itinerary design
 - [Luxury resort comparison framework](guides/resort-comparison-framework.md) — property quality vs. itinerary fit
+- [Luxury hotel booking-channel economics](guides/booking-channel-economics.md) — direct vs. advisor/card/points/OTA, credits, flexibility, and effective cost
 - [Maldives transfer economics](guides/maldives-transfer-economics.md) — yacht, seaplane, arrival-time, and split-stay logic
 - [Alaska field guide](guides/alaska-field-guide.md) — Katmai, Denali, hard dependencies, and current access structure
 
