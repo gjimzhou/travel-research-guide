@@ -1,163 +1,67 @@
-# Luxury hotel booking-channel economics
+# Luxury Hotel Booking-Channel Economics
 
-Luxury-hotel comparisons should be made on **effective trip value**, not headline room rate. The same room can produce very different outcomes depending on booking channel, cancellation terms, upgrade priority, breakfast, resort credits, points, elite-night credit, and payment timing.
+This page distills booking-channel comparisons that were actually discussed, especially FHR, preferred-partner/Fora-style rates, direct bookings, hotel points, and free-night certificates.
 
-## 1. Normalize the room first
+## Compare the same stay
 
-Before comparing channels, hold constant:
+Before comparing channels, normalize:
 
-- exact room category;
-- occupancy and bedding;
+- the exact room category;
 - stay dates;
 - taxes and mandatory fees;
 - cancellation deadline;
-- deposit and prepayment rules;
-- breakfast inclusion;
-- resort/property credits;
-- guaranteed vs. space-available benefits.
-
-A cheaper rate is not comparable if it buys a worse cancellation policy or a lower room category.
-
-## 2. Use effective cost, not sticker price
-
-A practical framework is:
-
-```
-effective cost =
-cash room cost
-+ taxes and mandatory fees
-+ financing / prepayment cost
-- value of benefits actually used
-- value of points / elite credit actually earned
-```
-
-Do not value a $100 property credit at $100 automatically. If it causes spending that would not otherwise occur, its real value is lower. The cleanest valuation is **avoided spend**.
-
-## 3. Main channel types
-
-### Direct flexible rate
-
-Often the cleanest baseline.
-
-Potential advantages:
-- easiest property-level servicing;
-- clearer cancellation handling;
-- loyalty earnings and elite recognition where applicable;
-- direct access to hotel-specific packages.
-
-Potential disadvantages:
-- may lack breakfast, credits, or advisor-program benefits;
-- public flexible rate may be materially above prepaid offers.
-
-### Preferred-partner / luxury-advisor rate
-
-Commonly useful at high-end hotels when the rate is similar to the direct flexible rate.
-
-Typical benefit categories may include:
 - breakfast;
-- hotel credit;
-- upgrade on availability;
-- early check-in / late checkout on availability.
+- property credit;
+- upgrade terms;
+- late checkout;
+- points or certificate cost.
 
-The correct question is not “are the benefits worth $X?” but “how much spend do these benefits actually replace?”
+A cheaper rate is not necessarily a better deal if the terms or benefits are materially different.
 
-### Credit-card luxury hotel program
+## FHR and preferred-partner rates
 
-These can be attractive when:
-- the program rate is close to direct;
-- the traveler would naturally use the included credits;
-- guaranteed late checkout or other hard benefits matter to the itinerary.
+Prior discussions repeatedly compared channels such as Amex Fine Hotels + Resorts and preferred-partner/Fora bookings.
 
-Always verify the current program terms, eligible properties, booking requirements, and whether hotel-loyalty earnings apply.
+The useful questions were:
 
-### Points or free-night awards
+- Is the rate similar to direct?
+- Is breakfast included?
+- How much property credit is included?
+- Does the credit roll over or expire daily?
+- Is late checkout guaranteed or only subject to availability?
+- Is the booking refundable?
+- Can the credit be used on the activities that were already planned?
 
-Compare against the **cash rate you would realistically book**, not the most expensive flexible rack rate.
+The value of the benefit package depends on actual use, not the headline dollar amount.
 
-A useful measure:
+## Refundability can dominate a small price difference
 
-```
-redemption value =
-cash cost avoided / points spent
-```
+Flexible bookings were repeatedly useful when weather, hotel changes, or other itinerary pieces were still uncertain.
 
-Subtract forgone points, elite credit, promotions, or package benefits if those matter.
+A slightly cheaper non-refundable rate was not automatically preferable to a refundable booking that preserved the option to re-plan.
 
-### OTA / wholesaler / opaque rate
+## Points and free-night certificates
 
-May be economically rational when the discount is large enough, but can introduce:
-- weaker change/cancellation flexibility;
-- uncertain elite recognition;
-- more complex servicing during disruptions;
-- room-category ambiguity.
+Points and certificates were compared against realistic cash alternatives, not an inflated rack rate.
 
-A small discount rarely compensates for a large increase in trip-friction risk on an expensive itinerary.
+The practical question was whether using points or a certificate freed cash for another part of the trip while still delivering an acceptable room and booking terms.
 
-## 4. Refundability has option value
+## Credits should be valued by avoided spend
 
-Flexible cancellation is economically valuable when:
-- flights are not yet locked;
-- weather risk is meaningful;
-- a better property or rate may become available;
-- the trip has multiple interdependent hotel segments.
+A $100 or $500 credit is most valuable when it replaces something that would have been purchased anyway.
 
-Treat nonrefundable savings as compensation for giving up an option. The correct threshold depends on the probability and cost of changing plans.
+This was particularly important when comparing resort credits usable for dining, golf, or other planned activities.
 
-## 5. Prepayment is not free
+## Conclusion
 
-For expensive stays booked far in advance, prepaid rates have a capital cost.
+The best booking channel is the one that gives the best combination of:
 
-A simple approximation:
+- effective cash cost;
+- benefits that will actually be used;
+- cancellation flexibility;
+- acceptable room category;
+- useful loyalty or points economics.
 
-```
-prepayment cost ≈ amount prepaid × annual opportunity cost × fraction of year prepaid
-```
+## Scope
 
-This does not mean prepaid rates are bad. It means the discount should be compared with both flexibility lost and capital tied up.
-
-## 6. Split stays change the math
-
-Two individually attractive hotels can make a worse trip if the split adds:
-- packing and unpacking;
-- transfer time;
-- lost access to rooms during changeover;
-- extra resort transfers;
-- duplicated mandatory fees;
-- breakage of stay-length promotions.
-
-Evaluate the itinerary, not just each hotel.
-
-## 7. Benefits: hard vs. soft
-
-**Hard benefits** are guaranteed by written terms.
-
-**Soft benefits** depend on availability or property discretion.
-
-In a comparison model, soft benefits should receive a probability-weighted value rather than full face value.
-
-## 8. A practical comparison table
-
-For each option record:
-
-| Field | Example use |
-|---|---|
-| Gross room + tax | cash outlay |
-| Cancellation deadline | flexibility |
-| Deposit timing | capital use |
-| Breakfast | avoided spend |
-| Property credit | avoided spend only |
-| Late checkout | itinerary value |
-| Upgrade | probability-weighted |
-| Loyalty points / nights | expected value |
-| Transfer / resort fees | landed cost |
-| Effective cost | normalized comparison |
-
-## 9. Decision rule
-
-Prefer the channel that minimizes **total trip cost plus friction**, subject to acceptable flexibility.
-
-The best booking is often not the cheapest and not the one with the largest nominal benefit package. It is the one whose benefits are actually usable, whose terms fit the trip, and whose servicing risk is acceptable.
-
-## Operational note
-
-Programs, benefits, hotel participation, loyalty-credit rules, cancellation terms, and rates change frequently. Re-verify them at booking and again before the cancellation deadline.
+Do not expand this page into a generic OTA or hotel-revenue-management guide. Add only booking structures and conclusions that have been part of prior trip research.
