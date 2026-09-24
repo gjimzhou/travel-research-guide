@@ -1,5 +1,7 @@
 # Travel Research Guide
 
+**Live site:** https://gjimzhou.github.io/travel-research-guide/
+
 Public research notes distilled from prior ChatGPT travel-planning discussions.
 
 This repository is **not** intended to grow into a general travel encyclopedia. A topic belongs here only if it was actually discussed first; web research may verify or source that discussion, but should not create unrelated new branches of content.
