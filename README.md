@@ -35,3 +35,7 @@ External sources are used to verify discussed facts, especially time-sensitive r
 ## Privacy rule
 
 Do not add identifiable personal travel plans, booking numbers, home/work locations, relationship events, private correspondence, or an individual's preference profile.
+
+## Copyright and reuse
+
+Original editorial content © 2026 Junliang Zhou; all rights reserved in eligible expression. Brief attributed quotation, citation, criticism and sharing links are welcome. Public facts are not proprietary. Functional website code is separately [MIT licensed](LICENSE-CODE). Third-party photography retains its original rights. See [copyright and privacy boundaries](COPYRIGHT.md) and [photo credits and rights status](PHOTO-RIGHTS.md).
